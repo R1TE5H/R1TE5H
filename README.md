@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I am currently working on Web and Mobile app full stack projects<br>
 🌱 I enjoy working with AI/ML and Blockchain technologies and actively explore these fields<br>
-🤔 I would appreciate help getting industry experience in these fields
+🤔 I would appreciate connecting with individuals in the FinTech, AI, and Blockchain fields to further advance my knowledge and gain more experience
 
 
 ## 🌐 Socials:
