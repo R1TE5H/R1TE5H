@@ -31,29 +31,22 @@ I design and build autonomous tool integrations, secure workflow infrastructure,
 ## 💻 Tech Stack
 
 ### ⚙ Backend, Databases & Cloud
-![Spring](https://shields.io) ![PostgreSQL](https://shields.io) ![SQL](https://shields.io) ![FastAPI](https://shields.io) ![NodeJS](https://shields.io) ![MongoDB](https://shields.io) ![Azure](https://shields.io) ![Docker](https://shields.io)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-### 🌐 Frontend & Core Languages
-![TypeScript](https://shields.io) ![Java](https://shields.io) ![Next JS](https://shields.io) ![React](https://shields.io) ![React Native](https://shields.io) ![Python](https://shields.io)
+### 🌐 Frontend Frameworks
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🔤 Core Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### ☁ Cloud Infrastructure
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 Testing, Intelligence & CI/CD
-![GitHub Actions](https://shields.io) ![PyTorch](https://shields.io) ![scikit-learn](https://shields.io) ![Jest](https://shields.io) ![Cypress](https://shields.io)
-
----
-
-## 📊 Performance Analytics
-
-<p align="left">
-  <img src="https://vercel.app" height="180" />
-  <img src="https://vercel.app" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://vercel.app" width="490" />
-</p>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-persaud-6688562aa/) 
